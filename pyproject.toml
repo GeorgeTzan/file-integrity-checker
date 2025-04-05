@@ -1,0 +1,7 @@
+[project]
+name = "file-integrity-checker"
+version = "0.1.0"
+description = "A Python tool to verify file integrity using hashing algorithms."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
